@@ -49,6 +49,6 @@ const App = () => {
       <Total e1={exercises1} e2={exercises2} e3={exercises3}/>
     </div>
   )
-}
+} 
 
 export default App
